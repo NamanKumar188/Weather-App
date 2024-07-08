@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NamanKumar188/Weather-App/static/css/main.b771d4d9.css",
+    "main.js": "/NamanKumar188/Weather-App/static/js/main.53d5b43e.js",
+    "static/media/city.jpg": "/NamanKumar188/Weather-App/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/green-nature.jpg": "/NamanKumar188/Weather-App/static/media/green-nature.fe8976e0559e99419fba.jpg",
+    "static/media/haze.webp": "/NamanKumar188/Weather-App/static/media/haze.25ccc59926804457b75a.webp",
+    "static/media/sunny.svg": "/NamanKumar188/Weather-App/static/media/sunny.7e634224f93b072c96aec3588263abce.svg",
+    "index.html": "/NamanKumar188/Weather-App/index.html",
+    "main.b771d4d9.css.map": "/NamanKumar188/Weather-App/static/css/main.b771d4d9.css.map",
+    "main.53d5b43e.js.map": "/NamanKumar188/Weather-App/static/js/main.53d5b43e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b771d4d9.css",
+    "static/js/main.53d5b43e.js"
+  ]
+}
