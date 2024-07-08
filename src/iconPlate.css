@@ -1,0 +1,28 @@
+.outer {
+  color: white;
+  height: 18%;
+  width: 85%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  /* background-color: yellow; */
+}
+#rotate {
+  animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.inImage {
+  position: relative;
+  left: 10%;
+  height: 80%;
+  /* width: 100%; */
+}
