@@ -1,5 +1,4 @@
 import './styles.css';
-import Line from './line.jsx';
 function Details({ left, right }) {
   return (
     <div class="detailBar">
